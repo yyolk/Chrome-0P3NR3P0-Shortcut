@@ -1,8 +1,7 @@
 {
-  "name": "tumblr.",
+  "name": "0P3NR3P0",
   "version": "0.0.2",
-  "description": "Provide a shortcut to tumblr",
-  "options_page": "options.html",
+  "description": "Provide a shortcut to 0P3NR3P0",
   "app": {
     "launch": {
       "local_path": "index.html"

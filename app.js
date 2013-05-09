@@ -1,17 +1,17 @@
 (function($){
 
-  var TumblrRedirect = function(){
-    this.tumblrUrl = "http://www.tumblr.com/";
+  var OpenrepoRedirect = function(){
+    this.OpenrepoUrl = "http://0p3nr3p0.net/";
   }
 
 
-  TumblrRedirect.prototype.redirect = function(){
-    window.location.replace(this.tumblrUrl);
+  OpenrepoRedirect.prototype.redirect = function(){
+    window.location.replace(this.OpenrepoUrl);
   }
 
 
   $(document).ready(function(){
-    var tRedirect = new TumblrRedirect();
+    var tRedirect = new OpenrepoRedirect();
     tRedirect.redirect();
   });
 
